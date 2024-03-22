@@ -11,7 +11,7 @@ Terdapat 2 role (Default Value => User)
 
 ### Struktur Folder
 - [x] server: untuk menyimpan aplikasi server nodejs
-- [x] Client: untuk menyimpan aplikasi react js
+- [x] Client: untuk menyimpan aplikasi react js & atomic design(slicing)
 
 ### Relation
 Many-to-Many dan one-to-many (ERD terdapat di repo)
