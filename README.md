@@ -22,18 +22,21 @@ Server :
     User
       - [x] Fitur Register
       - [x] Fitur Login
+      
      Client
       - [x] FItur Add Client
       - [x] Fitur Delete Client
       - [x] Fitur Edit Client
       - [x] Fitur Fetch Data
       - [x] Fitur Fetch Data By Id
+      
     Room Usage
       - [x] FItur Add Booking
       - [x] Fitur Delete Booking
       - [x] Fitur Edit Booking
       - [x] Fitur Fetch Data
       - [x] Fitur Fetch Data By Id
+      
      Room
       - [x] FItur Add Room (admin)
       - [x] Fitur Delete Room (admin)
