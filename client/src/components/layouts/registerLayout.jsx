@@ -18,7 +18,9 @@ export default function RegisterLayout() {
             </div>
 
             <div className="relative h-64 w-full sm:h-96 lg:h-full lg:w-1/2">
-                <AuthImage/>
+                <AuthImage 
+                    src="https://i.pinimg.com/474x/0c/87/de/0c87de62ba7066b24e168366605834fc.jpg"
+                />
             </div>
         </section>
     )
