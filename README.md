@@ -19,6 +19,7 @@ Many-to-Many dan one-to-many (ERD terdapat di repo)
 ### Fitur
 
 Server : 
+
     User
       - [x] Fitur Register
       - [x] Fitur Login
@@ -45,6 +46,7 @@ Server :
       - [x] Fitur Fetch Data By Id (admin)
 
 Client : 
+
     User
       - [x] Fitur Register
       - [x] Fitur Login
