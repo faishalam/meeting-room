@@ -1,0 +1,14 @@
+[
+    {
+        "name" : "Troll Warlord",
+        "email": "jarakal@dota.com",
+        "password": "admin",
+        "role": "admin"
+    },
+    {
+        "name" : "Testing User",
+        "email": "testinguser@dota.com",
+        "password": "user",
+        "role": "user"
+    }
+]

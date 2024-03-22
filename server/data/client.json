@@ -1,0 +1,16 @@
+[
+    {
+        "name": "James Bond",
+        "email": "james.bond@email.com",
+        "phone": "+112345678",
+        "credit": 15,
+        "userId" : 2
+    },
+    {
+        "name": "Wonder Woman",
+        "email": "wonder.woman@email.com",
+        "phone": "+1123456789",
+        "credit": 10,
+        "userId" : 2
+    }
+]

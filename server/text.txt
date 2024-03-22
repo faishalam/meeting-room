@@ -1,0 +1,4 @@
+npx sequelize-cli model:generate --name Client --attributes name:string,email:string,phone:string,credit:integer
+npx sequelize-cli model:generate --name Room --attributes roomName:string,costPerHour:integer
+npx sequelize-cli model:generate --name RoomUsage --attributes clientId:integer,roomId:integer,startTime:string,endTime:string,bookingDate:date,quotaUsed:integer
+npx sequelize-cli model:generate --name User --attributes name:string,email:string
