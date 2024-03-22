@@ -15,7 +15,9 @@ export default function LoginLayout() {
             </div>
 
             <div className="relative h-64 w-full sm:h-96 lg:h-full lg:w-1/2">
-                <AuthImage/>
+                <AuthImage 
+                    src="https://i.pinimg.com/564x/19/05/cf/1905cfc30c9780d808a0b371ad11beb5.jpg"
+                />
             </div>
         </section>
     )
